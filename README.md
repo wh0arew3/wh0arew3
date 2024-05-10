@@ -55,3 +55,17 @@ My journey as a web developer has led me to find a passion for cybersecurity, an
 ## Projects
 - SOC Automation Project
 - SIEM configuration and management
+
+
+<h3> Connect with me🤝: <h3>
+  </hr>
+  <a href="www.linkedin.com/in/santiago-sierralta">
+   <img align="left" alt="Santiago Sierralta | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:santinieto440@gmail.com">
+    <img align="left" alt="Santiago Sierralta | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+   <a href="https://github.com/wh0arew3">
+    <img align="left" alt="Wh0arew3| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
