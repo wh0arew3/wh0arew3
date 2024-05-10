@@ -53,6 +53,5 @@ My journey as a web developer has led me to find a passion for cybersecurity, an
 </div>
 
 ## Projects
-- Detection Lab
 - SOC Automation Project
 - SIEM configuration and management
