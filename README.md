@@ -1,16 +1,8 @@
-# Hi There 👋
-  </hr>
-  <a href="www.linkedin.com/in/santiago-sierralta">
-   <img align="left" alt="Santiago Sierralta | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:santinieto440@gmail.com">
-    <img align="left" alt="Santiago Sierralta | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-   <a href="https://github.com/wh0arew3">
-    <img align="left" alt="Wh0arew3| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  <br>
+<h1 align="center">Hi There<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Welcome</h1>
+<p align="center">
+  <a href="https://github.com/wh0arew3/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ethical+Hacker;It++Enthusiast&center=true&width=500&height=50"></a>
+</p>
+
 
 
 I am an IT enthusiast with a deep interest in technology and a dedication to solving complex problems.
@@ -30,7 +22,7 @@ My journey as a web developer has led me to find a passion for cybersecurity, an
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## 🧑‍💻Frequently Used Tech
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -71,10 +63,10 @@ My journey as a web developer has led me to find a passion for cybersecurity, an
 <h3> Connect with me🤝: <h3>
   </hr>
   <a href="www.linkedin.com/in/santiago-sierralta">
-   <img align="left" alt="Santiago Sierralta | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt="wh0arew3 | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:santinieto440@gmail.com">
-    <img align="left" alt="Santiago Sierralta | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="wh0arew3 | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
    <a href="https://github.com/wh0arew3">
     <img align="left" alt="Wh0arew3| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
