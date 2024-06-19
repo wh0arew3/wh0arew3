@@ -18,7 +18,7 @@ My journey as a web developer has led me to find a passion for cybersecurity, an
 | SOC Aotomation Project         | <a href="https://github.com/wh0arew3/SOC-Automation/tree/main">SOC Project</a>|
 | Home Server Project | <a href="https://github.com/wh0arew3/Home-Server">Home Server Project</a>|
 | Password Generator JS | <a href="https://github.com/wh0arew3/Password-Generator-JS"> Password Generator JS</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/wh0arew3/-Scripting-and-Automation-for-Threat-Mitigation-/blob/main/README.md"> Script</a>| 
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/wh0arew3/-Scripting-and-Automation-for-Threat-Mitigation-/tree/main"> Script</a>| 
 <!--| Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|  -->
 
